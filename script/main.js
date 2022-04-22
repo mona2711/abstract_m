@@ -1,6 +1,6 @@
 $(function() {
     $('#part-A-container').hide()
-    // $('#part-B-container').show()
+     $('#part-B-container').show()
     $('#part-C-container').hide()
 
     function timestamp(timestamp_ID) {
